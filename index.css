@@ -1,0 +1,12 @@
+.main_container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    background-color: khaki;
+}
+.container{
+    display: grid;
+    border: 2px solid grey;
+}
